@@ -32,7 +32,7 @@ public class Greeting {
 }
 ```
 
-The `Greeting` class, its `init(greeting: String)` constructor and it's `outputGreeting` method need to be public to enable them to be referenced in the package that imports this package with:
+The `Greeting` class, its `init(greeting: String)` constructor and its `outputGreeting` method need to be public to enable them to be referenced in the package that imports this package with:
 
 ```
 import SwiftGreeting
