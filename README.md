@@ -8,10 +8,7 @@ The package has the following definition in `Package.swift`:
 import PackageDescription
 
 let package = Package(
-  name: "HelloWorld",
-  dependencies: [
-      .Package(url: "https://github.com/UsabilityEtc/swift-greeting.git", majorVersion: 1)
-  ]
+    name: "SwiftGreeting"
 )
 ```
 
