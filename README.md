@@ -1,6 +1,6 @@
 # swift-greeting
 
-A simple Swift package that is used by the [swift-hello-world](https://github.com/UsabilityEtc/swift-hello-world) project to illustrate adding a Swift package as a dependency.
+A simple Swift package that's used by the [swift-hello-world](https://github.com/UsabilityEtc/swift-hello-world) example to illustrate adding a Swift package as a dependency.
 
 The package has the following definition in `Package.swift`:
 
